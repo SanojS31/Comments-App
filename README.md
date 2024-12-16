@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgacommentsap.ccbp.tech/](https://durgacommentsap.ccbp.tech/)🔗
+## **_Website_**:[https://comments-app-theta.vercel.app/](https://comments-app-theta.vercel.app/)🔗
 
 
 In this project, let's build a **Comments App** by applying the concepts we have learned till now.
